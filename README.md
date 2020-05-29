@@ -1,38 +1,13 @@
-## 这是标题
+# NutssssIndex
+简约个人主页、自适应
+![alt 预览图](https://cdn.nutssss.cn/wp-content/uploads/2020/04/1585711856-1.png)
 
-You can use the [editor on GitHub](https://github.com/haoyaoshuai/yaoshuai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 简介
+两天时间写了一个练手作品  
+不太想用别人的作品当做自己的个人主页了，心血来潮自己写了一个  
+技术不是很好，但是还是写的很认真  
+如有问题或建议欢迎提出  
+自适应、简约、动画、无js  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-哈哈哈
-
-### Hello  要帅
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haoyaoshuai/yaoshuai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 使用方法
+这还要看嘛？
